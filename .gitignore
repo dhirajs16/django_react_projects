@@ -1,1 +1,4 @@
 /venv/
+
+# Ignore SQLite database files
+*.sqlite3
