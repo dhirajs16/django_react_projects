@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 # Ignore Virtual Environment
+=======
+# Ignore the virtual environment directory
+>>>>>>> 2149a1a66befbe423569ad53be9c5cc506238ba2
 /venv/
 **/venv/
 
 # Ignore SQLite database files
 *.sqlite3
+
+# Other common items to ignore
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
