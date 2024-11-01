@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Ignore Virtual Environment
-=======
-# Ignore the virtual environment directory
->>>>>>> 2149a1a66befbe423569ad53be9c5cc506238ba2
+
 /venv/
 **/venv/
 
